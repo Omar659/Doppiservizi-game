@@ -4,20 +4,16 @@
 
 <table align="center">
 
-    <tbody>
+<tbody>
 
-        <tr>
+<tr>
 
-            <th>
-                ![](./readme_images/game1.jpg)
-            </th>
+<th>![](./readme_images/game1.jpg)</th>
 
-            <th>
-                ![](./readme_images/game2.jpg)
-            </th>
+<th>![](./readme_images/game2.jpg)</th>
 
-        </tr>
+</tr>
 
-    </tbody>
+</tbody>
 
 </table>
