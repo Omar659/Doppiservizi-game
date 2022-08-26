@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dopppiservizi game</string>
+    <string name="clicks">Clicks</string>
+    <string name="click">Click</string>
+    <string name="time">Tempo</string>
+    <string name="play">Gioca</string>
+    <string name="restart">Riprova</string>
+    <string name="record">Record</string>
+    <string name="results">Risultati</string>
+    <string name="info_button">Regole</string>
+    <string name="help_button">Informazioni</string>
+    <string name="close_button">Chiudi</string>
+    <string name="copy_button">Copia</string>
+    <string name="info">
+        Cliccando su un logo otterrai un punto click.\n\nCliccando su più loghi contemporaneamente, i punti ottenuti saranno esponenziali.\n\nLa difficoltà cresce nel tempo.\n\nOgni 50 punti click, otterrai una vita extra.
+    </string>
+    <string name="help">
+        Omar Bayoumi\nGitHub: Omar659\nLinkedin\nbayoumi.omar97@gmail.com\nwww.doppiservizi.it
+    </string>
+    <string name="link"><u>www.doppiservizi.it</u></string>
+    <string name="copied">Informazioni copiate</string>
+
+</resources>

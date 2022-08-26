@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Doubleservices game</string>
+    <string name="clicks">Clicks</string>
+    <string name="click">Click</string>
+    <string name="time">Time</string>
+    <string name="play">Play</string>
+    <string name="restart">Restart</string>
+    <string name="record">Record</string>
+    <string name="results">Results</string>
+    <string name="info_button">Rules</string>
+    <string name="help_button">About</string>
+    <string name="close_button">Close</string>
+    <string name="copy_button">Copy</string>
+    <string name="help">
+        Clicking on one logo will get one click point.\n\nClicking on several logos at the same time will result in exponential click points.\n\nThe difficulty increases over time.\n\nFor every 50 click points, you will get an extra life.
+    </string>
+    <string name="info">
+        Omar Bayoumi\nGitHub: Omar659\nbayoumi.omar97@gmail.com\nwww.doppiservizi.it
+    </string>
+    <string name="link"><u>www.doppiservizi.it</u></string>
+    <string name="copied">Information copied</string>
+</resources>
