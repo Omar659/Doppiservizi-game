@@ -1,6 +1,6 @@
 # Doppiservizi game
 
-#### Se clicchi sull'immagine guadagni un punto, non farti scappare l'immagine altrimenti perderai una vita.
+#### If you click on the image you earn a point, don't let the image slip away otherwise you will lose a life.
 
 <p align="center">  
   <img src="/readme_images/game1.jpg" width = "200">
